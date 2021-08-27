@@ -1,0 +1,15 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#main-title{
+    background-color: cadetblue;
+    text-align: center;
+}
+.main-section{
+    height: 100%;
+}
+
+
+#section1{
+    background-image: url(https://media.glamour.com/photos/56e1f891bebf143c52614f1b/master/w_1600,c_limit/beauty-2016-01-david-bowie-60s-main.jpg);
+}
