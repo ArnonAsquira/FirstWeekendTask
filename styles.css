@@ -26,24 +26,26 @@ p{
     font-size: 2em;
 }
 
-#section1{
+#Early_Work{
     background-image: url(https://images7.alphacoders.com/730/thumb-1920-730177.jpg);
     padding:0;
     margin:0;
 }
-#section2{
+
+#The_70s{
     background-image: url(https://images7.alphacoders.com/799/thumb-1920-799782.jpg);
     padding:0;
     margin:0;
 }
-#section3{
+
+#The_80s{
     background-image: url(https://media.glamour.com/photos/56e1f8911632e6ca44c181c0/master/w_1600,c_limit/beauty-2016-01-david-bowie-80s-main.jpg);
     padding:0;
     margin:0;
 }
-#section4{
+#The_90s{
     background-image: url(https://www.cjnews.com/wp-content/uploads/2016/01/bow-640x480.jpg);
 }
-#section5{
+#Later_Years{
     background-image:url(https://cdn.pitchfork.com/longform/300/DavidBowieSciFi.jpg);
 }
