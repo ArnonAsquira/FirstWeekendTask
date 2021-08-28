@@ -27,7 +27,7 @@ h3{
     text-decoration: underline;
 }
 p{
-    font-size: 2em;
+    font-size: 1.5em;
 }
 
 .code-div{
@@ -101,4 +101,19 @@ p{
 }
 #Later_Years{
     background-image:url(https://cdn.pitchfork.com/longform/300/DavidBowieSciFi.jpg);
+}
+
+@media screen and (max-width: 1000px) {
+  .main-section p{
+      font-size: 0.5em;
+  }
+   #main-title h1{
+      font-size: 1.5em;
+  }
+  .main-section header{
+      font-size:1em;
+  }
+  .code-div{
+      display:none;
+  }
 }
