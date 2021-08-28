@@ -28,6 +28,27 @@ h3{
 p{
     font-size: 2em;
 }
+#navbar{
+    position: fixed;
+    top:0;
+    margin:0;
+    padding:0;
+    overflow:hidden;
+}
+#navbar-ul{
+    list-style-type:none;
+
+}
+.navbar-li{
+    display: inline;
+    color:crimson;
+    background-color: cornflowerblue;
+    margin:0;
+    padding:0;
+}
+.navbar-li:hover{
+    background-color: darkkhaki;
+}
 
 #Early_Work{
     background-image: url(https://images7.alphacoders.com/730/thumb-1920-730177.jpg);
