@@ -34,6 +34,14 @@ p{
     margin:0;
     padding:0;
     overflow:hidden;
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 10%;
+}
+#navbar-header{
+    color: darkred;
+    padding:0;
+    margin: 0;
+    text-align: center;
 }
 #navbar-ul{
     list-style-type:none;
@@ -42,12 +50,19 @@ p{
 .navbar-li{
     display: inline;
     color:crimson;
-    background-color: cornflowerblue;
+    background-color: rgba(182, 88, 135, 0.2);
     margin:0;
-    padding:0;
+    padding-left:10px;
+    padding-right:10px;
+    padding-top:0;
+    padding-bottom:0;
+}
+.navbar-li a{
+    text-decoration: none;
+    color:darkred;
 }
 .navbar-li:hover{
-    background-color: darkkhaki;
+    background-color: rgb(122, 107, 189);
 }
 
 #Early_Work{
